@@ -3,7 +3,6 @@
 #include <string>
 #include "human.h"
 
-
 class Hybrid : public Human {
   private:
     bool vampire_power;
